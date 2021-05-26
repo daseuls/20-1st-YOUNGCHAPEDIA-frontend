@@ -86,7 +86,7 @@
 
 - 전용민
 - [임유진](https://velog.io/@1703979/YPP-1)
-- 이다슬
+- [이다슬](https://velog.io/@_seeul/Project-1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%98%81%EC%B0%A8%ED%94%BC%EB%94%94%EC%95%84-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 
 ## 📢 Reference
 
